@@ -17,3 +17,4 @@ swtk,The track differs in switchable tracks hierarchy ID defined in the VVC swit
 tesc,The track can be temporally scaled.,track sel.,ISO
 tile,The sub-track is spatial part or tile of the track.,track sel.,NALu Video
 vwsc,Sub-track can be scaled in terms of number of views,track sel.,ISO
+sdsd,sds,,
